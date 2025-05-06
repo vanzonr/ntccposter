@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 360" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" path="ntccposter.png" width="5400" height="3600" dpi="150"/>
+    </bx:export>
+    <linearGradient gradientUnits="userSpaceOnUse" bx:pinned="true" id="color-0">
+      <stop style="stop-color: #222831;"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" bx:pinned="true" id="color-1" gradientTransform="matrix(1, 0, 0, 1, 0, 6)">
+      <stop style="stop-color: #393e46;"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" bx:pinned="true" id="color-2">
+      <stop style="stop-color: #00adb5;"/>
+    </linearGradient>
+    <linearGradient id="color-4" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 62.07756, 118.449547)">
+      <stop style="stop-color: rgb(26, 123, 124);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" bx:pinned="true" id="color-3">
+      <stop style="stop-color: #eeeeee;"/>
+    </linearGradient>
+    <linearGradient id="color-5" gradientUnits="userSpaceOnUse" bx:pinned="true" gradientTransform="matrix(1, 0, 0, 0.869573, 0.603, 47.458878)">
+      <stop style="stop-color: rgb(236, 216, 161)"/>
+    </linearGradient>
+    <style bx:fonts="Lato">@import url(https://fonts.googleapis.com/css2?family=Lato%3Aital%2Cwght%400%2C100%3B0%2C300%3B0%2C400%3B0%2C700%3B0%2C900%3B1%2C100%3B1%2C300%3B1%2C400%3B1%2C700%3B1%2C900&amp;display=swap);</style>
+  </defs>
+  <rect y="0.025" width="540" height="360" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0px;"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="375" cy="256.5" rx="46.5" ry="46.5"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="270" cy="256.5" rx="46.5" ry="46.5"/>
+  <rect width="540" height="39.04" style="stroke: rgb(0, 0, 0); paint-order: fill; stroke-width: 0px; fill: rgb(236, 216, 161);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 19px; font-weight: 900; white-space: pre; text-anchor: middle;" x="270" y="26.014">The National Training Coordination Council</text>
+  <rect width="540" height="40" style="paint-order: fill; stroke-width: 0px; stroke: url(&quot;#color-5&quot;); fill: url(&quot;#color-5&quot;);" y="320"/>
+  <rect style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x="12.126" y="90" width="126.07" height="82" rx="8" ry="8"/>
+  <rect style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x="400.363" y="90" width="126.48" height="71" rx="8" ry="8"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 7px; white-space: pre;" transform="matrix(1, 0, 0, 1, 349.854126, 3.943224)"><tspan x="24.91" y="328.019">Slack:                         #education_training   </tspan><tspan x="24.91" dy="1.2em">​</tspan><tspan>Email:                natcc@gw.alliancecan.ca  </tspan><tspan x="24.91" dy="1.2em">​</tspan><tspan>Explora:  https://explora.alliancecan.ca</tspan></text>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="60" cy="256" rx="46.5" ry="46.5"/>
+  <rect style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x="46.693" y="49.229" width="446.615" height="29.145" rx="8" ry="8"/>
+  <rect style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" x="152.146" y="90" width="111" height="106" rx="8" ry="8"/>
+  <rect style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" x="275.977" y="90" width="111" height="106" rx="8" ry="8"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 18px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, -17.135689, 78.677078)"><tspan x="38.176" y="178.974">EXPLORA</tspan><tspan x="38.176" dy="1em">​</tspan><tspan x="38.176" dy="1em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Arial Black&quot;; font-size: 9px; white-space: pre;" x="202.976" y="332.336" transform="matrix(1, 0, 0, 1, -7.242691, 0)">Have ideas?<tspan x="202.9759979248047" dy="1.2em">​</tspan>Want to join a working group?<tspan x="202.9759979248047" dy="1.2em">​</tspan>Get in touch with the NTCC!</text>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="165" cy="256" rx="46.5" ry="46.5"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 18px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, 96.824005, 78.677078)"><tspan x="38.176" y="178.974">IHPCSS</tspan><tspan x="38.176" dy="1em">​</tspan><tspan x="38.176" dy="1em">​</tspan></text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Lato; font-size: 11px; font-weight: 900; text-anchor: middle; white-space: pre;" x="207.101" y="102.673">Council Members</text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Ubuntu; font-size: 6px; white-space: pre;" transform="matrix(1, 0, 0, 1, -7.819839, -50.21814)"><tspan x="179.795" y="162.965">1 Council chair </tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 Alliance representative</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 Compute Ontario rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 Calcul Quebec rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 ACENET rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 Simon Fraser U. rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 U. of Alberta rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 U. of Victoria rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 Cybersecurity rep</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>2 RDM reps</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan><tspan>1 AMII rep</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 6px; white-space: pre;" transform="matrix(1, 0, 0, 1, -2.41049, 51.351864)"><tspan x="23.398" y="62.395">Foster collaboration among  </tspan><tspan>national  <tspan x="23.398000717163086" dy="1.2em">​</tspan>DRI ecosystem players </tspan><tspan>and improve <tspan x="23.398000717163086" dy="1.2em">​</tspan>coordination of </tspan><tspan>training activities in <tspan x="23.398000717163086" dy="1.2em">​</tspan>ARC, RDM, </tspan><tspan>and Cybersecurity for the </tspan><tspan x="23.398000717163086" dy="1.2em">​</tspan><tspan>benefit of Canada's researchers.</tspan><tspan x="23.398000717163086" dy="1.2em">​</tspan><tspan x="23.398000717163086" dy="1.2em">​</tspan><tspan>Report to the Council of CTOs </tspan><tspan>and<tspan x="23.398000717163086" dy="1.2em">​</tspan>inform the Scientific  </tspan><tspan>Leadership Council.</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: Lato; font-size: 11px; font-weight: 900; text-anchor: middle; white-space: pre;" x="72.917" y="102.673">Our Mandate</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" transform="matrix(0.991189, 0, 0, 1, -3.691528, 15)" x="35.41" y="212.634">WORKING GROUP</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" x="240.621" y="227.568">WORKING GROUP</text>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="480" cy="256.5" rx="46.5" ry="46.5"/>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" x="345.41" y="227.568">WORKING GROUP</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: Lato; font-size: 11px; font-weight: 900; text-anchor: middle; white-space: pre;" x="461.151" y="102.673">Stakeholders</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 6px; white-space: pre;" transform="matrix(1, 0, 0, 1, 386.983917, 51.351864)"><tspan x="23.398" y="62.395">• Council of CTOs </tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan>• Scientific Leadership Council</tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan>• National Training Expert Group (RDM)</tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan>• National Security Council </tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan>• Researcher community</tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan>• DRI trainers</tspan><tspan x="23.398" dy="1.3em">​</tspan><tspan x="23.398" dy="1.3em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 8px; white-space: pre;" transform="matrix(1, 0, 0, 1, 18.397947, -4.207184)"><tspan x="23.399" y="281.596">  Training</tspan><tspan x="23.399" dy="1.2em">​</tspan><tspan> discovery</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 8px; white-space: pre;" transform="matrix(1, 0, 0, 1, -286.274811, -1.744171)"><tspan x="427.344" y="279.133">International</tspan><tspan x="427.344" dy="1.2em">​</tspan><tspan>HPC training</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 14px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 123.677216, 14.156587)"><tspan x="251.22" y="237.263">DATA</tspan><tspan x="251.22000122070312" dy="1em">​</tspan><tspan>COLLECTION</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" x="135.41" y="227.568">WORKING GROUP</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 18px; font-weight: 700; text-anchor: middle; text-transform: uppercase; white-space: pre;" x="270" y="257.651">COMMS</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 8px; white-space: pre;" transform="matrix(1, 0, 0, 1, -85.343994, -2.744171)"><tspan x="427.344" y="279.133">Best practices and</tspan><tspan x="427.344" dy="1.2em">​</tspan><tspan>recommendations</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 8px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, -157.343994, -8.870758)"><tspan x="427.344" y="279.133">What works, what </tspan><tspan x="427.344" dy="1.2em">​</tspan><tspan>doesn't, what do </tspan><tspan x="427.344" dy="1.2em">​</tspan><tspan>we need?</tspan></text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Lato; font-size: 11px; font-weight: 900; text-anchor: middle; white-space: pre;" x="331.871" y="102.673">Matters of Interest</text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Ubuntu; font-size: 6px; white-space: pre;" transform="matrix(1, 0, 0, 1, 106.027908, -50.21814)"><tspan x="179.795" y="162.965">• Training activities and schedules</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Training communication</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>International events</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Sharing of activities</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Coordination</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Best practices</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Access</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Discoverability</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Learning trajectories</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>Training materials</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>DRI Trainers</tspan><tspan x="179.7949981689453" dy="1.2em">​</tspan>• <tspan>....</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 7px; white-space: pre;" transform="matrix(1, 0, 0, 1, -14.91, 14.749481)"><tspan x="24.91" y="328.019">Ramses van Zon</tspan><tspan x="24.91" dy="1em">​</tspan><tspan>ramses.van.zon@scinet.computeontario.ca  </tspan><tspan x="24.91" dy="1em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 7px; white-space: pre; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 229.360992, 7.58951)"><tspan x="40.639" y="50.08">Throughout Canada, training in DRI covers a wide range of subjects in Advanced Research Computing, Research Data Management</tspan><tspan x="40.639" dy="1.2em">​</tspan><tspan>and Cybersecurity.  But the training is largely given by local and regional organization, which makes it hard for training staff to </tspan><tspan x="40.639" dy="1.2em">​</tspan><tspan>coordinate and for users to find training events. The NTCC, established in 2024 by the Council of CTOs, aims to improve this situation. </tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" transform="matrix(0.991189, 0, 0, 1, 6.107414, 22.96283)"><tspan x="35.41" y="212.634">(2024/2025)</tspan><tspan x="35.41" dy="1em">​</tspan><tspan x="35.41" dy="1em">​</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" transform="matrix(0.991189, 0, 0, 1, 110.962677, 22.96283)"><tspan x="35.41" y="212.634">(2024/2025)</tspan><tspan x="35.41" dy="1em">​</tspan><tspan x="35.41" dy="1em">​</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" transform="matrix(0.991189, 0, 0, 1, 223.666763, 22.96283)"><tspan x="35.41" y="212.634">(2025-)</tspan><tspan x="35.41" dy="1em">​</tspan><tspan x="35.41" dy="1em">​</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre;" transform="matrix(0.991189, 0, 0, 1, 327.944031, 22.96283)"><tspan x="35.41" y="212.634">(2025-)</tspan><tspan x="35.41" dy="1em">​</tspan><tspan x="35.41" dy="1em">​</tspan></text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre; text-anchor: middle;" x="478.36" y="227.688">FUTURE</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Lato; font-size: 18px; font-weight: 700; text-anchor: middle; text-transform: uppercase; white-space: pre;" x="479.357" y="258.553">. . .</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: &quot;Arial Black&quot;; font-size: 6px; white-space: pre; text-anchor: middle;" transform="matrix(0.991189, 0, 0, 1, 443.816132, 23.96283)" x="35.41" y="212.634">WORKING GROUPS</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 6px; white-space: pre; text-anchor: middle;" x="61.368" y="267.161">https://explora.alliancecan.ca</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Ubuntu; font-size: 6px; white-space: pre;" x="135.019" y="267.326">https://ss25.ihpcss.org</text>
+</svg>
