@@ -1,134 +1,119 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="280">
 <style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(294,142)" font-size="13" style="fill:rgb(210, 253, 195)">C</text>
-<text transform="translate(41,171) rotate(-90)" font-size="13" style="fill:rgb(249, 246, 189)">clusters</text>
-<text transform="translate(80,228)" font-size="13" style="fill:rgb(209, 253, 196)">AI</text>
-<text transform="translate(330,129)" font-size="13" style="fill:rgb(197, 255, 198)">CUDA</text>
-<text transform="translate(37,95) rotate(-90)" font-size="13" style="fill:rgb(228, 250, 193)">GPU</text>
-<text transform="translate(367,103)" font-size="13" style="fill:rgb(235, 248, 191)">MPI</text>
-<text transform="translate(217,205)" font-size="13" style="fill:rgb(216, 252, 194)">bash</text>
-<text transform="translate(410,14)" font-size="13" style="fill:rgb(234, 249, 192)">git</text>
-<text transform="translate(79,210)" font-size="13" style="fill:rgb(230, 249, 192)">SQL</text>
-<text transform="translate(43,237)" font-size="13" style="fill:rgb(254, 245, 188)">accelerators</text>
-<text transform="translate(135,125)" font-size="13" style="fill:rgb(237, 248, 191)">advanced</text>
-<text transform="translate(276,230)" font-size="13" style="fill:rgb(219, 251, 194)">cybersecurity</text>
-<text transform="translate(489,54)" font-size="13" style="fill:rgb(229, 249, 192)">chapel</text>
-<text transform="translate(87,161)" font-size="13" style="fill:rgb(203, 254, 197)">paraview</text>
-<text transform="translate(192,232)" font-size="13" style="fill:rgb(237, 248, 191)">analytics</text>
-<text transform="translate(259,264)" font-size="13" style="fill:rgb(240, 248, 191)">big data</text>
-<text transform="translate(79,273)" font-size="13" style="fill:rgb(235, 248, 191)">bioinformatics</text>
-<text transform="translate(185,86)" font-size="13" style="fill:rgb(211, 252, 195)">biostatistics</text>
-<text transform="translate(464,10)" font-size="13" style="fill:rgb(199, 254, 197)">cloud</text>
-<text transform="translate(380,186)" font-size="13" style="fill:rgb(213, 252, 195)">computational</text>
-<text transform="translate(274,117)" font-size="13" style="fill:rgb(237, 248, 191)">containers</text>
-<text transform="translate(48,275)" font-size="13" style="fill:rgb(198, 255, 198)">data</text>
-<text transform="translate(178,163)" font-size="13" style="fill:rgb(205, 253, 196)">data management</text>
-<text transform="translate(465,152) rotate(-90)" font-size="13" style="fill:rgb(203, 254, 197)">databases</text>
-<text transform="translate(271,248)" font-size="13" style="fill:rgb(254, 245, 188)">deep learning</text>
-<text transform="translate(289,214)" font-size="13" style="fill:rgb(203, 254, 197)">distributed memory</text>
-<text transform="translate(430,260)" font-size="13" style="fill:rgb(250, 246, 189)">dynamics</text>
-<text transform="translate(69,142)" font-size="13" style="fill:rgb(210, 253, 196)">fluid</text>
-<text transform="translate(257,189)" font-size="13" style="fill:rgb(221, 251, 194)">fortran</text>
-<text transform="translate(14,255)" font-size="13" style="fill:rgb(235, 248, 191)">genomics</text>
-<text transform="translate(36,33)" font-size="13" style="fill:rgb(238, 248, 191)">sequencing</text>
-<text transform="translate(184,70)" font-size="13" style="fill:rgb(201, 254, 197)">neuroimaging</text>
-<text transform="translate(302,275)" font-size="13" style="fill:rgb(199, 254, 197)">high performance computing</text>
-<text transform="translate(119,188) rotate(-90)" font-size="13" style="fill:rgb(229, 249, 192)">HPC</text>
-<text transform="translate(441,205)" font-size="13" style="fill:rgb(225, 250, 193)">intermediate</text>
-<text transform="translate(0,12)" font-size="13" style="fill:rgb(206, 253, 196)">introduction</text>
-<text transform="translate(280,26)" font-size="13" style="fill:rgb(254, 245, 188)">job scheduling</text>
-<text transform="translate(75,70)" font-size="13" style="fill:rgb(251, 246, 189)">julia</text>
-<text transform="translate(298,95)" font-size="13" style="fill:rgb(209, 253, 196)">jupyter</text>
-<text transform="translate(26,193)" font-size="13" style="fill:rgb(233, 249, 192)">linux</text>
-<text transform="translate(343,51)" font-size="13" style="fill:rgb(226, 250, 193)">machine learning</text>
-<text transform="translate(23,155) rotate(-90)" font-size="13" style="fill:rgb(237, 248, 191)">molecular dynamics</text>
-<text transform="translate(407,162)" font-size="13" style="fill:rgb(220, 251, 194)">national systems</text>
-<text transform="translate(421,76)" font-size="13" style="fill:rgb(234, 249, 191)">neural networks</text>
-<text transform="translate(94,95)" font-size="13" style="fill:rgb(210, 253, 196)">neuroanalytics</text>
-<text transform="translate(412,65)" font-size="13" style="fill:rgb(214, 252, 195)">openmp</text>
-<text transform="translate(47,50)" font-size="13" style="fill:rgb(198, 255, 198)">parallel programming</text>
-<text transform="translate(107,15)" font-size="13" style="fill:rgb(197, 255, 198)">performance analysis</text>
-<text transform="translate(54,124)" font-size="13" style="fill:rgb(254, 245, 188)">profiling</text>
-<text transform="translate(127,32)" font-size="13" style="fill:rgb(221, 251, 194)">programming</text>
-<text transform="translate(383,123)" font-size="13" style="fill:rgb(212, 252, 195)">languages</text>
-<text transform="translate(487,242)" font-size="13" style="fill:rgb(202, 254, 197)">python</text>
-<text transform="translate(476,102)" font-size="13" style="fill:rgb(248, 246, 189)">pytorch</text>
-<text transform="translate(208,45)" font-size="13" style="fill:rgb(243, 247, 190)">quantum computing</text>
-<text transform="translate(222,134)" font-size="13" style="fill:rgb(205, 254, 196)">research</text>
-<text transform="translate(261,198)" font-size="13" style="fill:rgb(218, 251, 194)">research computing</text>
-<text transform="translate(156,175)" font-size="13" style="fill:rgb(222, 251, 194)">scientific computing</text>
-<text transform="translate(165,250)" font-size="13" style="fill:rgb(221, 251, 194)">shared memory</text>
-<text transform="translate(178,186)" font-size="13" style="fill:rgb(201, 254, 197)">shell</text>
-<text transform="translate(12,173) rotate(-90)" font-size="13" style="fill:rgb(226, 250, 193)">slurm</text>
-<text transform="translate(145,224)" font-size="13" style="fill:rgb(235, 248, 191)">software</text>
-<text transform="translate(46,108)" font-size="13" style="fill:rgb(243, 247, 190)">software libraries</text>
-<text transform="translate(376,74)" font-size="13" style="fill:rgb(229, 250, 192)">ssh</text>
-<text transform="translate(109,144)" font-size="13" style="fill:rgb(221, 251, 194)">supercomputing</text>
-<text transform="translate(425,175)" font-size="13" style="fill:rgb(240, 248, 190)">tensorflow</text>
-<text transform="translate(107,259)" font-size="13" style="fill:rgb(246, 247, 189)">visualization</text>
-<text transform="translate(401,236)" font-size="13" style="fill:rgb(253, 245, 188)">apptainer</text>
-<text transform="translate(353,172)" font-size="13" style="fill:rgb(212, 252, 195)">security</text>
-<text transform="translate(314,145)" font-size="13" style="fill:rgb(228, 250, 192)">permissions</text>
-<text transform="translate(10,131) rotate(-90)" font-size="13" style="fill:rgb(208, 253, 196)">version control</text>
-<text transform="translate(424,31)" font-size="13" style="fill:rgb(225, 250, 193)">data science</text>
-<text transform="translate(470,125)" font-size="13" style="fill:rgb(209, 253, 196)">spark</text>
-<text transform="translate(321,37)" font-size="13" style="fill:rgb(234, 249, 191)">DDT</text>
-<text transform="translate(117,73)" font-size="13" style="fill:rgb(233, 249, 192)">MPI IO</text>
-<text transform="translate(122,204)" font-size="13" style="fill:rgb(204, 254, 197)">workshop</text>
-<text transform="translate(217,57)" font-size="13" style="fill:rgb(240, 248, 191)">summer school</text>
-<text transform="translate(354,89)" font-size="13" style="fill:rgb(240, 248, 190)">spring school</text>
-<text transform="translate(41,171)" font-size="13" style="fill:rgb(206, 253, 196)">courses</text>
-<text transform="translate(18,246) rotate(-90)" font-size="13" style="fill:rgb(239, 248, 191)">training</text>
-<text transform="translate(288,76)" font-size="13" style="fill:rgb(215, 252, 195)">bootcamp</text>
-<text transform="translate(344,38)" font-size="13" style="fill:rgb(229, 249, 192)">virtual</text>
-<text transform="translate(333,11)" font-size="13" style="fill:rgb(207, 253, 196)">in person</text>
-<text transform="translate(397,111)" font-size="13" style="fill:rgb(199, 254, 197)">hybrid</text>
-<text transform="translate(437,19)" font-size="13" style="fill:rgb(215, 252, 195)">C</text>
-<text transform="translate(116,136)" font-size="13" style="fill:rgb(246, 247, 189)">clusters</text>
-<text transform="translate(387,254)" font-size="13" style="fill:rgb(241, 247, 190)">AI</text>
-<text transform="translate(121,85)" font-size="13" style="fill:rgb(245, 247, 190)">CUDA</text>
-<text transform="translate(513,227)" font-size="13" style="fill:rgb(221, 251, 194)">GPU</text>
-<text transform="translate(211,101)" font-size="13" style="fill:rgb(211, 253, 195)">MPI</text>
-<text transform="translate(202,118)" font-size="13" style="fill:rgb(240, 248, 191)">bash</text>
-<text transform="translate(173,85) rotate(-90)" font-size="13" style="fill:rgb(216, 252, 195)">git</text>
-<text transform="translate(308,156)" font-size="13" style="fill:rgb(241, 247, 190)">SQL</text>
-<text transform="translate(9,181)" font-size="13" style="fill:rgb(225, 250, 193)">accelerators</text>
-<text transform="translate(443,225)" font-size="13" style="fill:rgb(245, 247, 190)">advanced</text>
-<text transform="translate(195,276)" font-size="13" style="fill:rgb(230, 249, 192)">cybersecurity</text>
-<text transform="translate(332,63)" font-size="13" style="fill:rgb(229, 249, 192)">chapel</text>
-<text transform="translate(224,148)" font-size="13" style="fill:rgb(212, 252, 195)">paraview</text>
-<text transform="translate(469,138)" font-size="13" style="fill:rgb(253, 245, 188)">analytics</text>
-<text transform="translate(222,214)" font-size="13" style="fill:rgb(234, 249, 191)">big data</text>
-<text transform="translate(320,264)" font-size="13" style="fill:rgb(217, 251, 194)">bioinformatics</text>
-<text transform="translate(430,214)" font-size="13" style="fill:rgb(231, 249, 192)">biostatistics</text>
-<text transform="translate(25,207)" font-size="13" style="fill:rgb(199, 255, 197)">cloud</text>
-<text transform="translate(63,244)" font-size="11" style="fill:rgb(200, 254, 197)">computational</text>
-<text transform="translate(469,42)" font-size="11" style="fill:rgb(212, 252, 195)">containers</text>
-<text transform="translate(497,186)" font-size="11" style="fill:rgb(217, 251, 194)">data</text>
-<text transform="translate(423,192)" font-size="10" style="fill:rgb(205, 253, 196)">data management</text>
-<text transform="translate(404,248)" font-size="10" style="fill:rgb(212, 252, 195)">databases</text>
-<text transform="translate(363,132)" font-size="10" style="fill:rgb(237, 248, 191)">deep learning</text>
-<text transform="translate(107,59)" font-size="10" style="fill:rgb(203, 254, 197)">distributed memory</text>
-<text transform="translate(54,18)" font-size="10" style="fill:rgb(209, 253, 196)">dynamics</text>
-<text transform="translate(317,176)" font-size="10" style="fill:rgb(210, 253, 195)">fluid</text>
-<text transform="translate(228,35)" font-size="10" style="fill:rgb(200, 254, 197)">fortran</text>
-<text transform="translate(67,85)" font-size="10" style="fill:rgb(244, 247, 190)">genomics</text>
-<text transform="translate(466,147)" font-size="10" style="fill:rgb(252, 246, 188)">sequencing</text>
-<text transform="translate(452,16)" font-size="10" style="fill:rgb(215, 252, 195)">neuroimaging</text>
-<text transform="translate(240,104)" font-size="8" style="fill:rgb(232, 249, 192)">high performance computing</text>
-<text transform="translate(315,131) rotate(-90)" font-size="8" style="fill:rgb(207, 253, 196)">HPC</text>
-<text transform="translate(43,99) rotate(-90)" font-size="8" style="fill:rgb(210, 253, 196)">intermediate</text>
-<text transform="translate(396,98)" font-size="8" style="fill:rgb(225, 250, 193)">introduction</text>
-<text transform="translate(334,153)" font-size="8" style="fill:rgb(212, 252, 195)">job scheduling</text>
-<text transform="translate(320,186)" font-size="8" style="fill:rgb(226, 250, 193)">julia</text>
-<text transform="translate(412,149)" font-size="8" style="fill:rgb(242, 247, 190)">jupyter</text>
-<text transform="translate(226,186)" font-size="8" style="fill:rgb(230, 249, 192)">linux</text>
-<text transform="translate(43,151)" font-size="8" style="fill:rgb(219, 251, 194)">machine learning</text>
-<text transform="translate(290,235)" font-size="7" style="fill:rgb(248, 246, 189)">molecular dynamics</text>
-<text transform="translate(122,21)" font-size="7" style="fill:rgb(197, 255, 198)">national systems</text>
-<text transform="translate(265,6)" font-size="7" style="fill:rgb(219, 251, 194)">neural networks</text>
-<text transform="translate(43,260)" font-size="7" style="fill:rgb(202, 254, 197)">neuroanalytics</text>
-<text transform="translate(143,233)" font-size="7" style="fill:rgb(245, 247, 190)">openmp</text>
-<text transform="translate(156,191)" font-size="7" style="fill:rgb(225, 250, 193)">parallel programming</text>
+<text transform="translate(522,65)" font-size="13" style="fill:rgb(252, 246, 189)">C</text>
+<text transform="translate(408,249)" font-size="13" style="fill:rgb(203, 254, 197)">clusters</text>
+<text transform="translate(411,140)" font-size="13" style="fill:rgb(244, 247, 190)">AI</text>
+<text transform="translate(216,72)" font-size="13" style="fill:rgb(224, 250, 193)">CUDA</text>
+<text transform="translate(514,236)" font-size="13" style="fill:rgb(233, 249, 192)">GPU</text>
+<text transform="translate(415,219)" font-size="13" style="fill:rgb(252, 245, 188)">MPI</text>
+<text transform="translate(125,70)" font-size="13" style="fill:rgb(226, 250, 193)">bash</text>
+<text transform="translate(238,159)" font-size="13" style="fill:rgb(237, 248, 191)">git</text>
+<text transform="translate(395,13)" font-size="13" style="fill:rgb(245, 247, 190)">SQL</text>
+<text transform="translate(305,67)" font-size="13" style="fill:rgb(198, 255, 198)">accelerators</text>
+<text transform="translate(379,162)" font-size="13" style="fill:rgb(242, 247, 190)">advanced</text>
+<text transform="translate(238,242)" font-size="13" style="fill:rgb(213, 252, 195)">cybersecurity</text>
+<text transform="translate(52,116)" font-size="13" style="fill:rgb(222, 251, 194)">chapel</text>
+<text transform="translate(153,167)" font-size="13" style="fill:rgb(243, 247, 190)">paraview</text>
+<text transform="translate(115,263)" font-size="13" style="fill:rgb(243, 247, 190)">analytics</text>
+<text transform="translate(466,265)" font-size="13" style="fill:rgb(240, 248, 190)">big data</text>
+<text transform="translate(69,183)" font-size="13" style="fill:rgb(214, 252, 195)">bioinformatics</text>
+<text transform="translate(396,80)" font-size="13" style="fill:rgb(202, 254, 197)">biostatistics</text>
+<text transform="translate(25,15)" font-size="13" style="fill:rgb(198, 255, 198)">cloud</text>
+<text transform="translate(69,100)" font-size="13" style="fill:rgb(199, 255, 197)">computational</text>
+<text transform="translate(352,123)" font-size="13" style="fill:rgb(231, 249, 192)">containers</text>
+<text transform="translate(439,113)" font-size="13" style="fill:rgb(201, 254, 197)">data</text>
+<text transform="translate(264,220)" font-size="13" style="fill:rgb(229, 250, 192)">data management</text>
+<text transform="translate(96,27)" font-size="13" style="fill:rgb(196, 255, 198)">databases</text>
+<text transform="translate(22,133) rotate(-90)" font-size="13" style="fill:rgb(230, 249, 192)">deep learning</text>
+<text transform="translate(248,272)" font-size="13" style="fill:rgb(237, 248, 191)">distributed memory</text>
+<text transform="translate(303,18)" font-size="13" style="fill:rgb(223, 250, 193)">dynamics</text>
+<text transform="translate(74,90)" font-size="13" style="fill:rgb(221, 251, 194)">fluid</text>
+<text transform="translate(199,221)" font-size="13" style="fill:rgb(223, 251, 193)">fortran</text>
+<text transform="translate(214,111)" font-size="13" style="fill:rgb(217, 251, 194)">genomics</text>
+<text transform="translate(347,107)" font-size="13" style="fill:rgb(201, 254, 197)">sequencing</text>
+<text transform="translate(151,145)" font-size="13" style="fill:rgb(244, 247, 190)">neuroimaging</text>
+<text transform="translate(94,130)" font-size="13" style="fill:rgb(205, 254, 196)">high performance computing</text>
+<text transform="translate(241,194)" font-size="13" style="fill:rgb(216, 252, 195)">HPC</text>
+<text transform="translate(306,98)" font-size="13" style="fill:rgb(247, 246, 189)">intermediate</text>
+<text transform="translate(340,262)" font-size="13" style="fill:rgb(211, 252, 195)">introduction</text>
+<text transform="translate(340,231)" font-size="13" style="fill:rgb(203, 254, 197)">job scheduling</text>
+<text transform="translate(98,193)" font-size="13" style="fill:rgb(216, 252, 195)">julia</text>
+<text transform="translate(12,259)" font-size="13" style="fill:rgb(229, 249, 192)">jupyter</text>
+<text transform="translate(432,185)" font-size="13" style="fill:rgb(208, 253, 196)">linux</text>
+<text transform="translate(360,31)" font-size="13" style="fill:rgb(220, 251, 194)">machine learning</text>
+<text transform="translate(278,51)" font-size="13" style="fill:rgb(224, 250, 193)">molecular dynamics</text>
+<text transform="translate(28,157)" font-size="13" style="fill:rgb(219, 251, 194)">national systems</text>
+<text transform="translate(209,207)" font-size="13" style="fill:rgb(253, 245, 188)">neural networks</text>
+<text transform="translate(128,275)" font-size="13" style="fill:rgb(207, 253, 196)">neuroanalytics</text>
+<text transform="translate(125,209)" font-size="13" style="fill:rgb(243, 247, 190)">openmp</text>
+<text transform="translate(203,83)" font-size="13" style="fill:rgb(230, 249, 192)">parallel programming</text>
+<text transform="translate(248,181)" font-size="13" style="fill:rgb(218, 251, 194)">performance analysis</text>
+<text transform="translate(18,239)" font-size="13" style="fill:rgb(201, 254, 197)">profiling</text>
+<text transform="translate(99,244)" font-size="13" style="fill:rgb(237, 248, 191)">programming</text>
+<text transform="translate(25,41)" font-size="13" style="fill:rgb(201, 254, 197)">languages</text>
+<text transform="translate(491,138)" font-size="13" style="fill:rgb(239, 248, 191)">python</text>
+<text transform="translate(399,90)" font-size="13" style="fill:rgb(198, 255, 197)">pytorch</text>
+<text transform="translate(110,45)" font-size="13" style="fill:rgb(217, 251, 194)">quantum computing</text>
+<text transform="translate(291,155)" font-size="13" style="fill:rgb(223, 250, 193)">research</text>
+<text transform="translate(346,194)" font-size="13" style="fill:rgb(227, 250, 193)">research computing</text>
+<text transform="translate(91,10)" font-size="13" style="fill:rgb(246, 247, 189)">scientific computing</text>
+<text transform="translate(225,32)" font-size="13" style="fill:rgb(203, 254, 197)">shared memory</text>
+<text transform="translate(101,109)" font-size="13" style="fill:rgb(220, 251, 194)">shell</text>
+<text transform="translate(437,69)" font-size="13" style="fill:rgb(231, 249, 192)">slurm</text>
+<text transform="translate(403,273)" font-size="13" style="fill:rgb(217, 252, 194)">software</text>
+<text transform="translate(13,226)" font-size="13" style="fill:rgb(231, 249, 192)">software libraries</text>
+<text transform="translate(452,234)" font-size="13" style="fill:rgb(217, 251, 194)">ssh</text>
+<text transform="translate(429,45)" font-size="13" style="fill:rgb(251, 246, 189)">supercomputing</text>
+<text transform="translate(291,167)" font-size="13" style="fill:rgb(237, 248, 191)">tensorflow</text>
+<text transform="translate(422,151)" font-size="13" style="fill:rgb(223, 251, 193)">visualization</text>
+<text transform="translate(308,133)" font-size="13" style="fill:rgb(223, 250, 193)">apptainer</text>
+<text transform="translate(443,125)" font-size="13" style="fill:rgb(237, 248, 191)">security</text>
+<text transform="translate(9,211)" font-size="13" style="fill:rgb(200, 254, 197)">permissions</text>
+<text transform="translate(185,60)" font-size="13" style="fill:rgb(244, 247, 190)">version control</text>
+<text transform="translate(441,210)" font-size="13" style="fill:rgb(207, 253, 196)">data science</text>
+<text transform="translate(45,139)" font-size="13" style="fill:rgb(242, 247, 190)">spark</text>
+<text transform="translate(539,33) rotate(-90)" font-size="13" style="fill:rgb(220, 251, 194)">DDT</text>
+<text transform="translate(237,97)" font-size="13" style="fill:rgb(253, 245, 188)">MPI IO</text>
+<text transform="translate(41,121) rotate(-90)" font-size="13" style="fill:rgb(211, 253, 195)">workshop</text>
+<text transform="translate(407,172)" font-size="13" style="fill:rgb(254, 245, 188)">summer school</text>
+<text transform="translate(11,275)" font-size="13" style="fill:rgb(212, 252, 195)">spring school</text>
+<text transform="translate(192,21)" font-size="13" style="fill:rgb(228, 250, 192)">courses</text>
+<text transform="translate(369,205)" font-size="13" style="fill:rgb(206, 253, 196)">training</text>
+<text transform="translate(14,195) rotate(-90)" font-size="13" style="fill:rgb(250, 246, 189)">bootcamp</text>
+<text transform="translate(19,169)" font-size="13" style="fill:rgb(243, 247, 190)">virtual</text>
+<text transform="translate(2,27)" font-size="13" style="fill:rgb(251, 246, 189)">in person</text>
+<text transform="translate(476,14)" font-size="13" style="fill:rgb(211, 252, 195)">hybrid</text>
+<text transform="translate(161,199)" font-size="13" style="fill:rgb(238, 248, 191)">C</text>
+<text transform="translate(194,257) rotate(-90)" font-size="13" style="fill:rgb(238, 248, 191)">clusters</text>
+<text transform="translate(517,84)" font-size="13" style="fill:rgb(227, 250, 193)">AI</text>
+<text transform="translate(233,119)" font-size="13" style="fill:rgb(247, 246, 189)">CUDA</text>
+<text transform="translate(32,130)" font-size="13" style="fill:rgb(216, 252, 195)">GPU</text>
+<text transform="translate(316,193)" font-size="13" style="fill:rgb(249, 246, 189)">MPI</text>
+<text transform="translate(430,58)" font-size="13" style="fill:rgb(209, 253, 196)">bash</text>
+<text transform="translate(244,184) rotate(-90)" font-size="13" style="fill:rgb(234, 249, 191)">git</text>
+<text transform="translate(488,251)" font-size="13" style="fill:rgb(200, 254, 197)">SQL</text>
+<text transform="translate(90,57)" font-size="13" style="fill:rgb(228, 250, 192)">accelerators</text>
+<text transform="translate(50,74)" font-size="13" style="fill:rgb(235, 248, 191)">advanced</text>
+<text transform="translate(232,257)" font-size="13" style="fill:rgb(217, 251, 194)">cybersecurity</text>
+<text transform="translate(187,115) rotate(-90)" font-size="13" style="fill:rgb(201, 254, 197)">chapel</text>
+<text transform="translate(341,248)" font-size="13" style="fill:rgb(198, 255, 198)">paraview</text>
+<text transform="translate(452,98)" font-size="13" style="fill:rgb(213, 252, 195)">analytics</text>
+<text transform="translate(471,182)" font-size="13" style="fill:rgb(199, 255, 197)">big data</text>
+<text transform="translate(207,231)" font-size="13" style="fill:rgb(247, 246, 189)">bioinformatics</text>
+<text transform="translate(438,221)" font-size="13" style="fill:rgb(249, 246, 189)">biostatistics</text>
+<text transform="translate(199,111) rotate(-90)" font-size="13" style="fill:rgb(252, 246, 188)">cloud</text>
+<text transform="translate(251,144)" font-size="12" style="fill:rgb(226, 250, 193)">computational</text>
+<text transform="translate(102,117)" font-size="12" style="fill:rgb(211, 252, 195)">containers</text>
+<text transform="translate(303,111)" font-size="12" style="fill:rgb(201, 254, 197)">data</text>
+<text transform="translate(441,157)" font-size="10" style="fill:rgb(204, 254, 197)">data management</text>
+<text transform="translate(262,74)" font-size="10" style="fill:rgb(231, 249, 192)">databases</text>
+<text transform="translate(16,190)" font-size="10" style="fill:rgb(207, 253, 196)">deep learning</text>
+<text transform="translate(111,33)" font-size="9" style="fill:rgb(234, 249, 191)">distributed memory</text>
+<text transform="translate(418,9)" font-size="9" style="fill:rgb(240, 248, 191)">dynamics</text>
+<text transform="translate(301,279)" font-size="9" style="fill:rgb(212, 252, 195)">fluid</text>
+<text transform="translate(50,33)" font-size="9" style="fill:rgb(242, 247, 190)">fortran</text>
+<text transform="translate(362,37)" font-size="9" style="fill:rgb(227, 250, 193)">genomics</text>
+<text transform="translate(7,259) rotate(-90)" font-size="9" style="fill:rgb(197, 255, 198)">sequencing</text>
+<text transform="translate(174,191)" font-size="9" style="fill:rgb(251, 246, 189)">neuroimaging</text>
 </svg>
