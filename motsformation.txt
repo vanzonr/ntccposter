@@ -1,6 +1,7 @@
 IA
 C
 C++
+mécanique_des_fluides_numérique
 CUDA
 GPU
 MPI
@@ -13,12 +14,11 @@ avancé
 cybersécurité
 chapel
 paraview
-analytique
+analyse_de_données
 mégadonnées
 bioinformatique
 biostatistiques
 service_infonuagique
-grappes
 grappes
 informatique
 conteneurs
@@ -27,8 +27,6 @@ gestion_de_données
 bases_de_données
 apprentissage_profond
 mémoire_distribuée
-dynamique
-fluide
 fortran
 génomique
 séquençage

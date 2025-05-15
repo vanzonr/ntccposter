@@ -1,6 +1,7 @@
 AI
 C
 C++
+CFD
 CUDA
 GPU
 MPI
@@ -13,12 +14,11 @@ advanced
 cybersecurity
 chapel
 paraview
-analytics
+data_analytics
 big_data
 bioinformatics
 biostatistics
 cloud
-clusters
 clusters
 computational
 containers
@@ -27,8 +27,6 @@ data_management
 databases
 deep_learning
 distributed_memory
-dynamics
-fluid
 fortran
 genomics
 sequencing
